@@ -1,0 +1,15 @@
+.text{
+  background: linear-gradient(98deg, #EB5757 4.09%, #9B51E0 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+font-size: 117.752px !important;
+font-weight: 700 !important;
+line-height: normal;
+letter-spacing: -3.533px !important;
+
+}
+.cbx{
+  border-radius: 15px !important;
+border: 3px solid #EB5757 !important;
+}
