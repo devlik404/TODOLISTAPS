@@ -28,3 +28,16 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+## Project setup and configuration
+
+  1.Create Folder in your local
+  - Backend ==> clone in Branch Backend(for how to configure please go to branch)
+  - Forntend => Clone In Branch Frontend
+  2.Run npm i command 
+  3. if error install the required depedencies
+  4.after everything is installed.
+  5.run`npm run dev`
+  congratulations the project will be running on your local
+
